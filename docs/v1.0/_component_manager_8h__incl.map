@@ -1,0 +1,13 @@
+<map id="ComponentManager.h" name="ComponentManager.h">
+<area shape="rect" id="node6" href="$_component_helpers_8h.html" title="cppexpose/plugin/Component\lHelpers.h" alt="" coords="473,80,665,121"/>
+<area shape="rect" id="node14" href="$_signal_8h.html" title="cppexpose/signal/Signal.h" alt="" coords="1025,87,1197,114"/>
+<area shape="rect" id="node20" href="$_component_manager_8inl.html" title="cppexpose/plugin/Component\lManager.inl" alt="" coords="1222,80,1414,121"/>
+<area shape="rect" id="node7" href="$_generic_component_8h.html" title="cppexpose/plugin/Generic\lComponent.h" alt="" coords="483,169,654,211"/>
+<area shape="rect" id="node9" href="$_abstract_generic_component_8h.html" title="cppexpose/plugin/Abstract\lGenericComponent.h" alt="" coords="481,259,656,300"/>
+<area shape="rect" id="node12" href="$_generic_component_8inl.html" title="cppexpose/plugin/Generic\lComponent.inl" alt="" coords="207,259,378,300"/>
+<area shape="rect" id="node10" href="$_abstract_component_8h.html" title="cppexpose/plugin/Abstract\lComponent.h" alt="" coords="316,348,491,389"/>
+<area shape="rect" id="node11" href="$_abstract_generic_component_8inl.html" title="cppexpose/plugin/Abstract\lGenericComponent.inl" alt="" coords="567,348,741,389"/>
+<area shape="rect" id="node17" href="$_abstract_signal_8h.html" title="cppexpose/signal/Abstract\lSignal.h" alt="" coords="823,169,997,211"/>
+<area shape="rect" id="node19" href="$_signal_8inl.html" title="cppexpose/signal/Signal.inl" alt="" coords="1022,177,1201,203"/>
+<area shape="rect" id="node18" href="$_connection_8h.html" title="cppexpose/signal/Connection.h" alt="" coords="823,266,1024,293"/>
+</map>
