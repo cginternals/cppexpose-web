@@ -1,0 +1,11 @@
+<map id="Signal.h" name="Signal.h">
+<area shape="rect" id="node2" href="$_component_manager_8h.html" title="ComponentManager.h" alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node4" href="$_abstract_property_8h.html" title="AbstractProperty.h" alt="" coords="280,80,409,107"/>
+<area shape="rect" id="node5" href="$_dynamic_property_8h.html" title="DynamicProperty.h" alt="" coords="229,155,359,181"/>
+<area shape="rect" id="node6" href="$_object_8h.html" title="Object.h" alt="" coords="289,304,360,331"/>
+<area shape="rect" id="node8" href="$_property_8h.html" title="Property.h" alt="" coords="394,155,474,181"/>
+<area shape="rect" id="node10" href="$_script_context_8h.html" title="ScriptContext.h" alt="" coords="485,80,596,107"/>
+<area shape="rect" id="node3" href="$plugin__api_8h.html" title="plugin_api.h" alt="" coords="34,155,125,181"/>
+<area shape="rect" id="node7" href="$_tree_node_8h.html" title="TreeNode.h" alt="" coords="337,379,427,405"/>
+<area shape="rect" id="node9" href="$_object_8inl.html" title="Object.inl" alt="" coords="325,229,401,256"/>
+</map>

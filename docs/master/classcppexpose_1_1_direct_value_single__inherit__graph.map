@@ -1,0 +1,7 @@
+<map id="cppexpose::DirectValueSingle&lt; T, BASE &gt;" name="cppexpose::DirectValueSingle&lt; T, BASE &gt;">
+<area shape="rect" id="node4" href="$classcppexpose_1_1_direct_value.html" title="Typed value (read/write) that is stored directly. " alt="" coords="20,265,165,304"/>
+<area shape="rect" id="node6" href="$classcppexpose_1_1_direct_value_single_3_01const_01_t_00_01_b_a_s_e_01_4.html" title="Typed value (read&#45;only) that is stored directly. " alt="" coords="190,265,369,304"/>
+<area shape="rect" id="node2" href="$classcppexpose_1_1_typed_generic.html" title="Representation of an arbitrary (unknown typed) value. " alt="" coords="116,92,256,131"/>
+<area shape="rect" id="node3" href="$classcppexpose_1_1_typed.html" title="Representation of a typed value. " alt="" coords="116,5,256,44"/>
+<area shape="rect" id="node5" href="$classcppexpose_1_1_dynamic_property.html" title="Representation of dynamic object properties. " alt="" coords="5,352,180,391"/>
+</map>

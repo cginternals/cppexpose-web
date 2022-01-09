@@ -1,0 +1,6 @@
+<map id="cppexpose::StoredValue&lt; T, BASE &gt;" name="cppexpose::StoredValue&lt; T, BASE &gt;">
+<area shape="rect" id="node5" href="$classcppexpose_1_1_property.html" title="Representation of object properties. " alt="" coords="15,352,145,391"/>
+<area shape="rect" id="node2" href="$classcppexpose_1_1_stored_value_single.html" title="Typed value (read/write) that is accessed via getter and setter functions. " alt="" coords="13,179,147,217"/>
+<area shape="rect" id="node3" href="$classcppexpose_1_1_typed_generic.html" title="Representation of an arbitrary (unknown typed) value. " alt="" coords="10,92,150,131"/>
+<area shape="rect" id="node4" href="$classcppexpose_1_1_typed.html" title="Representation of a typed value. " alt="" coords="10,5,150,44"/>
+</map>

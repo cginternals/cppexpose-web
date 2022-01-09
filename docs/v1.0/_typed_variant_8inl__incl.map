@@ -1,0 +1,24 @@
+<map id="TypedVariant.inl" name="TypedVariant.inl">
+<area shape="rect" id="node2" href="$_variant_8h.html" title="cppexpose/variant/Variant.h" alt="" coords="4277,80,4460,107"/>
+<area shape="rect" id="node3" href="$typed__includes_8inl.html" title="cppexpose/typed/typed\l_includes.inl" alt="" coords="4355,155,4510,196"/>
+<area shape="rect" id="node4" href="$_type_interface_8h.html" title="cppexpose/typed/TypeInterface.h" alt="" coords="5,251,217,278"/>
+<area shape="rect" id="node28" href="$_abstract_typed_8inl.html" title="cppexpose/typed/Abstract\lTyped.inl" alt="" coords="4753,244,4925,285"/>
+<area shape="rect" id="node29" href="$_typed_8inl.html" title="cppexpose/typed/Typed.inl" alt="" coords="4555,251,4729,278"/>
+<area shape="rect" id="node31" href="$_typed_array_8inl.html" title="cppexpose/typed/TypedArray.inl" alt="" coords="7512,251,7716,278"/>
+<area shape="rect" id="node35" href="$_typed_bool_8inl.html" title="cppexpose/typed/TypedBool.inl" alt="" coords="5213,251,5413,278"/>
+<area shape="rect" id="node36" href="$_typed_enum_8inl.html" title="cppexpose/typed/TypedEnum.inl" alt="" coords="5437,251,5644,278"/>
+<area shape="rect" id="node37" href="$_typed_file_path_8inl.html" title="cppexpose/typed/TypedFile\lPath.inl" alt="" coords="5669,244,5847,285"/>
+<area shape="rect" id="node38" href="$_typed_floating_point_8inl.html" title="cppexpose/typed/TypedFloating\lPoint.inl" alt="" coords="5872,244,6076,285"/>
+<area shape="rect" id="node39" href="$_typed_generic_8inl.html" title="cppexpose/typed/TypedGeneric.inl" alt="" coords="6101,251,6319,278"/>
+<area shape="rect" id="node40" href="$_typed_number_8inl.html" title="cppexpose/typed/TypedNumber.inl" alt="" coords="6344,251,6564,278"/>
+<area shape="rect" id="node41" href="$_typed_signed_integral_8inl.html" title="cppexpose/typed/TypedSigned\lIntegral.inl" alt="" coords="7059,244,7257,285"/>
+<area shape="rect" id="node42" href="$_typed_string_8inl.html" title="cppexpose/typed/TypedString.inl" alt="" coords="6826,251,7034,278"/>
+<area shape="rect" id="node43" href="$_typed_unsigned_integral_8inl.html" title="cppexpose/typed/TypedUnsigned\lIntegral.inl" alt="" coords="6589,244,6802,285"/>
+<area shape="rect" id="node44" href="$_direct_value_8inl.html" title="cppexpose/typed/DirectValue.inl" alt="" coords="7281,251,7488,278"/>
+<area shape="rect" id="node45" href="$_direct_value_single_8inl.html" title="cppexpose/typed/DirectValue\lSingle.inl" alt="" coords="8628,244,8819,285"/>
+<area shape="rect" id="node46" href="$_direct_value_array_8inl.html" title="cppexpose/typed/DirectValue\lArray.inl" alt="" coords="7740,244,7931,285"/>
+<area shape="rect" id="node47" href="$_stored_value_8inl.html" title="cppexpose/typed/StoredValue.inl" alt="" coords="7955,251,8166,278"/>
+<area shape="rect" id="node48" href="$_stored_value_single_8inl.html" title="cppexpose/typed/StoredValue\lSingle.inl" alt="" coords="8190,244,8385,285"/>
+<area shape="rect" id="node49" href="$_stored_value_array_8inl.html" title="cppexpose/typed/StoredValue\lArray.inl" alt="" coords="8409,244,8603,285"/>
+<area shape="rect" id="node50" href="$_variant_8inl.html" title="cppexpose/variant/Variant.inl" alt="" coords="4949,251,5137,278"/>
+</map>

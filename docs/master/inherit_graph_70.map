@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcppexpose_1_1_type_interface.html" title="Base interface for accessing typed values. " alt="" coords="5,31,161,56"/>
+<area shape="rect" id="node2" href="$classcppexpose_1_1_abstract_typed.html" title="Abstract base class for typed values. " alt="" coords="209,5,372,31"/>
+<area shape="rect" id="node6" href="$classcppexpose_1_1_variant.html" title="Variant typed value. " alt="" coords="229,55,352,80"/>
+<area shape="rect" id="node3" href="$classcppexpose_1_1_abstract_property.html" title="Base class for properties. " alt="" coords="420,5,593,31"/>
+<area shape="rect" id="node4" href="$classcppexpose_1_1_object.html" title="Base class for reflection&#45;enabled objects. " alt="" coords="641,5,760,31"/>
+<area shape="rect" id="node5" href="$classcppexpose_1_1_tree_node.html" title="Example class for dynamic hierarchies. " alt="" coords="808,5,945,31"/>
+</map>
